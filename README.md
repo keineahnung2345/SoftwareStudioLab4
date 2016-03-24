@@ -1,11 +1,11 @@
-# SoftwareStudioLab4
+﻿# SoftwareStudioLab4
 SoftwareStudio Lab4 2016
 
 # 組員一
 
-姓名：
+姓名：林軒竹
 
-學號：
+學號：102062204
 
 # 組員二
 
