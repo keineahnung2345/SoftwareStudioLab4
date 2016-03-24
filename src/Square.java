@@ -22,14 +22,12 @@ public class Square extends Shape {
 	
 	@Override
 	public int getShapeWidth(){
-		// TODO Return Square width
-		return 0;
+		return shapeWidth;
 	}
 	
 	@Override
 	public int getShapeHeight(){
-		// TODO Return Square height
-		return 0;
+		return shapeWidth;
 	}
 
 
