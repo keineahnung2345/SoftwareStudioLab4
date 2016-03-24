@@ -9,9 +9,9 @@ SoftwareStudio Lab4 2016
 
 # 組員二
 
-姓名：
+姓名：林宗翰
 
-學號：
+學號：103062233
 
 #Screenshot
 
